@@ -4,3 +4,8 @@ The "CoffeeManagerJava" project is a Java language project presented as part of 
 - Tool: Java Swing
 - Language Used: Java
 - Database: SQL Server
+# Description of Main Functions:
+- CRUD operations for users and products in the inventory.
+- User and product search functionality.
+- Handling invoices and payments.
+- Generating statistics based on lists.
